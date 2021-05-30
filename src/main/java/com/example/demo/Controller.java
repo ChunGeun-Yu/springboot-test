@@ -10,6 +10,6 @@ public class Controller {
 	@GetMapping("/")
 	public String get() {
 		System.out.println("get...");
-		return "{\"id\": \"123\"}";			
+		return "{\"id\": \"1234567890\"}";			
 	}
 }
